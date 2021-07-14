@@ -39,7 +39,7 @@ async function predict(data){
       console.log(e);
     }
 }
-
+ 
 module.exports = {
     predict: predict 
 }
